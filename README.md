@@ -36,7 +36,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/if9dTzg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To begin, first thing is to create your resources in azure. Creating a virtual machine will automatically create a resource group and virtual network. Next, we will set domain controllers NIC Private IP address to be static.
+To begin, first thing is to create your resources in azure. Creating a virtual machine will automatically create a resource group and virtual network. Next, we will set domain controllers NIC Private IP address to be static.A second virtual machine will need to be made with the same reource group and virtual network making sure the vnet is the same.
 </p>
 <br />
 
