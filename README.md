@@ -44,7 +44,7 @@ To begin, first thing is to create your resources in azure. Creating a virtual m
 <img src="https://i.imgur.com/9E28t92.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we must ensure connectivity between the client and the domain controller.To test, we can first login into the domain controller and enable ICMPv4 on the local windows firewall.Go into command prompt and type in ping -t <ip address> and it should perpetually ping on the command prompt.
 </p>
 <br />
 
