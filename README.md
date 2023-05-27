@@ -81,3 +81,7 @@ To be able to login as a regular user in client-1,Log into Client-1 as mydomain.
 <br />
 
 <p>
+<img src="https://i.imgur.com/KYn4Z8l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now to create more users in active directory,login as jane_admin and open powershell as an admin.We will create a new file with a new script.We get the script running and see all the accounts be created that u choose to create.
