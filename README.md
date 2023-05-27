@@ -52,7 +52,7 @@ Next, we must ensure connectivity between the client and the domain controller.T
 <img src="https://i.imgur.com/WnwmxVi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installing active directory is the next step. We login to DC-1 and install, setting up a new forest called www.mydomain.com then restart and log back in as mydomain.com\labuser
 </p>
 <br />
 
