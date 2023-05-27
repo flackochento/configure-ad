@@ -61,3 +61,10 @@ Installing active directory is the next step. We login to DC-1 and install, sett
 </p>
 <p>
 We must then create admin and nomral user account in active directory. Create an organizational unit for both, one called _ADMINS & _EMPLOYEES.Create an employee, i used the name jane doe as an example (can be anything) with the username jane_admin. jane_admin will then be added to the "domain admins" security group, we will continue now as jane_admin from now on.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wrESJtY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
