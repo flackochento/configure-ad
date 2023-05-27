@@ -68,3 +68,4 @@ We must then create admin and nomral user account in active directory. Create an
 <img src="https://i.imgur.com/wrESJtY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+From azure, the client-1's dns settings must be set to the DC's private address and then restart client-1.Next is to login into client-1 as the local admin and then join it into the domain.When logging into domain controller and client-1 should pop up in the active directory,once that is verified, a new folder must be created for client-1 named "_CLIENTS".
