@@ -73,7 +73,7 @@ From azure, the client-1's dns settings must be set to the DC's private address 
 <br />
 
 <p>
-<img src="https://i.imgur.com/G6GCVGE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jjZtygz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
