@@ -76,4 +76,8 @@ From azure, the client-1's dns settings must be set to the DC's private address 
 <img src="https://i.imgur.com/HB6HFjh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+To be able to login as a regular user in client-1,Log into Client-1 as mydomain.com\jane_admin and open system properties.Open remote desktop and allow domain users to access remote desktop.
+</p>
+<br />
 
+<p>
